@@ -17,25 +17,25 @@
     {
       "title":"订餐类电商网",
       "about":"标签:#mysql#php#jquery#angular",
-      "lianjie":"www.cyychzl.win",
+      "lianjie":"http://www.cyychzl.win",
       "content":"数据库的定义与构建，PHP通过Ajax向页面传输json数据，移动端的外卖类型webAPP，jQuery mobile，angular js，bootstrap框架的混合使用，关于订单查询方面功能正在完善，"
     },
     {
       "title":"游戏类网站展示",
       "about":"标签:#mysql#php#jquery",
-      "lianjie":"www.cyychzl.win/wyyx",
+      "lianjie":"http://www.cyychzl.win/wyyx",
       "content":"div+css的布局，基于jQuery的页面交互"
     },
     {
       "title":"房产网",
       "about":"标签:#mysql#php#jquery#ajax#h5",
-      "lianjie":"www.cyychzl.win/lianjia/shouye.html",
+      "lianjie":"http://www.cyychzl.win/lianjia/shouye.html",
       "content":"div+css布局，基于jQuery的几个页面动态，基于Ajax+json的数据传输，PHP操作MySQL数据库实现登录注册验证功能，HTML5的sessionStorage的本地存储设置与获取"
     },
     {
       "title":"个人博客",
       "about":"标签:#json#jquery#ajax#h5",
-      "lianjie":"www.cyychzl.win/cy",
+      "lianjie":"http://www.cyychzl.win/cy",
       "content":"个人博客"
     }
   ]
